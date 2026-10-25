@@ -1,6 +1,3 @@
-# Organization description: OpensourceKings
-
-## GitHub org bio (short, 160 chars max)
 
 👑 Open-source software, built in the open. Makers of Aurum (crypto wallet) and Pulse. MIT-licensed, privacy-minded, no tracking.
 
