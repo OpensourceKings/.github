@@ -19,10 +19,3 @@ We build open-source software that respects its users: transparent code, permiss
 ## 🤝 Contributing
 
 Issues and pull requests are welcome in any repo. Please read the project's README and SECURITY.md first.
-
----
-
-## Notes for you
-
-- Fill in the Pulse row before publishing. I couldn't find any information about it in your files.
-- To publish as the org profile: create a public repo named `.github` in the org, add this text as `profile/README.md`, and put the short bio in the org settings.
