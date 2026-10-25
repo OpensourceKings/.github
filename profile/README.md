@@ -1,8 +1,4 @@
 
-👑 Open-source software, built in the open. Makers of Aurum (crypto wallet) and Pulse. MIT-licensed, privacy-minded, no tracking.
-
-## Profile README / About text
-
 # 👑 OpensourceKings
 
 We build open-source software that respects its users: transparent code, permissive licenses, and no analytics or lock-in.
